@@ -1,0 +1,1 @@
+This repository contains data and code used for analysis during the 2016 Moody's Mega Math Challenge by Team #7256.
