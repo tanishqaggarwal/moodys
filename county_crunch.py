@@ -80,6 +80,9 @@ for line in lines:
 		if i % 10000 == 0:
 			outfile.write(str(time) + "," + str(distance) + "\n");
 
+for x in range(0, 10400):
+	outfile.write("0" + "," + "0" + "\n");
+
 outfile.close()
 f.close()
 
